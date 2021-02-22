@@ -11,6 +11,12 @@ python3 -m venv env
 source env/bin/activate
 ```
 
+-   Install pre-commit hooks
+
+```
+pre-commit instal
+```
+
 ## Development
 
 -   `source env/bin/activate` - Activate Python virtual environment
