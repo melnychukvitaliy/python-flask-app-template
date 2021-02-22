@@ -35,6 +35,14 @@ make format
 
 ```
 
+## Pre-commit hooks
+
+All precommit hooks deacribed in `.pre-commit-config.yml` file. There are two main options can be sued to install ot run those hooks.
+
+To install hooks at the fist time `pre-commit install`
+
+To run hooks `pre-commit run`
+
 ### Running application
 
 Run `flask run` in the application level
